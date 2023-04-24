@@ -1,16 +1,16 @@
-.body{
+body{
     background-color: rgb(246, 127, 163);
 }
 
 #score{
     font-size: 25px;
     margin-left: 20px;
+    float: left;
 }
 
 #timer{
     font-size: 25px;
-    float: right
-    margin; right: 20px;
+    float: right;
     margin-right: 20px;
 }
 
